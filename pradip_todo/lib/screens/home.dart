@@ -25,9 +25,10 @@ class _HomeState extends State<Home> {
               size: 30,
             ),
             CircleAvatar(
-              radius: 30,
-              backgroundColor: Colors.transparent,
-              child: Image.asset("assets/images/port.jpg"),
+              radius: 20,
+              backgroundColor: Colors.amber,
+              foregroundImage: AssetImage("assets/images/port.jpg"),
+              
             ),
           ],
         ),
