@@ -16,7 +16,6 @@ class Todo {
       Todo(id: "01", todoText: "Clean the room", isDone: true),
       Todo(id: "02", todoText: "Read Clean Architecture", isDone: true),
       Todo(id: "03", todoText: "Talk to Milly"),
-      Todo(id: "03", todoText: "Talk to Milly"),
     ];
   }
 }
